@@ -19,8 +19,8 @@ The error message text overlaps the container boundaries when displayed on the s
 3. Enter an incorrect password (e.g., `wrong_pass`) into the "Password" field.
 4. Click the "Login" button.
 
+**Expected Result:**
+The error message should be fully contained within the red alert box with appropriate padding, ensuring the text is fully legible. 
+
 **Actual Result:**
 An error message appears in a red box. The text is wrapped into 3 lines, but the font size or line height causes the text to exceed the box boundaries, making it difficult to read (clipping occurs at top/bottom).
-
-**Expected Result:**
-The error message should be fully contained within the red alert box with appropriate padding, ensuring the text is fully legible.
