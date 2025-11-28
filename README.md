@@ -7,7 +7,7 @@ It includes:
 - Automated tests
 - Bug report
 
-**Project Structure**
+## 📂 Project Structure
 - manual_tests/ - Test cases in Markdown
 - automation/ - Python automated tests
 - bug_reports/ - Found defects
