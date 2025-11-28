@@ -25,7 +25,8 @@ Follow these steps to set up the project locally:
 ```bash
     
 git clone [https://github.com/kratochvilo/saucedemo_qa_demoproject.git](https://github.com/kratochvilo/saucedemo_qa_demoproject.git)
-    ```
+```
+
 2. **Create virtual environment:**
 ```bash
 python -m venv venv
