@@ -22,23 +22,17 @@ Follow these steps to set up the project locally:
     git clone [https://github.com/kratochvilo/saucedemo_qa_demoproject.git](https://github.com/kratochvilo/saucedemo_qa_demoproject.git)
     ```
 2. **Create virtual environment:**
-
-    python -m venv venv
-
-    source venv/Scripts/activate  # (On Windows Git Bash)
+    - python -m venv venv
+    - source venv/Scripts/activate  # (On Windows Git Bash)
 
 3. **Install dependencies:**
-
-    pip install pytest playwright pytest-playwright
-
-    playwright install
+    - pip install pytest playwright pytest-playwright
+    - playwright install
 
 4. **Run tests:**
-    pytest
+    - pytest
 
 **Project Structure**
-manual_tests/ - Test cases in Markdown
-
-automation/ - Python automated tests
-
-bug_reports/ - Found defects
+    - manual_tests/ - Test cases in Markdown
+    - automation/ - Python automated tests
+    - bug_reports/ - Found defects
