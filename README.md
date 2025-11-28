@@ -7,6 +7,11 @@ It includes:
 - Automated tests
 - Bug report
 
+**Project Structure**
+- manual_tests/ - Test cases in Markdown
+- automation/ - Python automated tests
+- bug_reports/ - Found defects
+
 ## 🛠️ Technologies Used
 - **Language:** Python 3.13.5
 - **Automation Framework:** Playwright
@@ -31,8 +36,3 @@ Follow these steps to set up the project locally:
 
 4. **Run tests:**
 - pytest
-
-**Project Structure**
-- manual_tests/ - Test cases in Markdown
-- automation/ - Python automated tests
-- bug_reports/ - Found defects
