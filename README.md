@@ -2,10 +2,6 @@
 
 ## ℹ️ About the Project
 This project serves as a portfolio demonstration of automated and manual testing for the e-commerce website [SauceDemo](https://www.saucedemo.com/).
-It includes:
-- Manual testing including test cases
-- Automated tests
-- Bug report
 
 ## 📂 Project Structure
 - manual_tests/ - Test cases in Markdown
