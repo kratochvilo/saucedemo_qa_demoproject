@@ -18,9 +18,9 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
     ```bash
-    ```
+    
     git clone [https://github.com/kratochvilo/saucedemo_qa_demoproject.git](https://github.com/kratochvilo/saucedemo_qa_demoproject.git)
-
+    ```
 2. **Create virtual environment:**
     python -m venv venv
     source venv/Scripts/activate  # (On Windows Git Bash)
