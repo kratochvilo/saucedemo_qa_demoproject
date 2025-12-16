@@ -50,8 +50,7 @@ The error message should be fully contained within the red alert box with approp
 An error message appears in a red box. The text is wrapped into 3 lines, but the font size or line height causes the text to exceed the box boundaries, making it difficult to read (clipping occurs at top/bottom).
 
 
-### 2. Item Description Text
-
+## 2. Item Description Text
 **ID:** BUG_UI_02
 **Severity:** Low (Visual)
 **Status:** Open
