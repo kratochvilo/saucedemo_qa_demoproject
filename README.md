@@ -1,4 +1,5 @@
 # SauceDemo QA Automation Project
+![Playwright Tests](https://github.com/kratochvilo/saucedemo_qa_demoproject/actions/workflows/playwright.yml/badge.svg)
 
 ## ℹ️ About the Project
 This project serves as a portfolio demonstration of automated and manual testing for the e-commerce website [SauceDemo](https://www.saucedemo.com/).
