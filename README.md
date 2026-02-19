@@ -5,7 +5,7 @@
 This project serves as a portfolio demonstration of automated and manual testing for the e-commerce website [SauceDemo](https://www.saucedemo.com/).
 
 ## 📂 Project Structure
-- **[manual_tests/](manual_tests/)** - Detailed Test Cases (Checkout, Inventory flows)
+- **[documentation/](documentation/)** - Detailed Test Cases (Checkout, Inventory flows)
 - **[automation/](automation/)** - Python Playwright automated tests
 - **[bug_reports/](bug_reports/found_bugs.md)** - 🐞 List of found defects (Bug Reports)
 
